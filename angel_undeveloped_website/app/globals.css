@@ -5,6 +5,17 @@
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --clr-dark: #0a0a0a;
+  --clr-light: #f5f5f5;
+  --clr-neutral400: #a3a3a3;
+  --clr-neutral600: #525252;
+  --clr-neutral800: #27272a;
+  --clr-slate600: #475569;
+  --clr-slate800: #1e293b;
+  --clr-rose: #e11d48;
+  --clr-violet: #9333ea;
+  --clr-indigo: #4f46e5;
+  --clr-blue: #2563eb;
 }
 
 @media (prefers-color-scheme: dark) {
